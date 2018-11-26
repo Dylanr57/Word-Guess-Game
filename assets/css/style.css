@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: url("https://pre00.deviantart.net/3a51/th/pre/i/2015/198/a/1/phb_background_texture_by_kluckham-d91rf3o.png");
+    background-size: cover;
+}
+
+#Title {
+    margin: 2rem;
+    font-family: "Coustard", serif;
+    font-size: xx-large;
+    color: #f22;
+    text-shadow: -2px 0 black, 2px 0 black, 0 -2px black, 0 2px black;
+}
+
+#Content {
+    line-height: 2rem;
+    font-family: "Almendra SC", serif;
+    font-size: larger;
+
+}
